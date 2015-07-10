@@ -1,2 +1,2 @@
-# iOSDesignPatterns-ObjectiveC
-Ray Wenderlich's Article on Design Patterns in Objective C
+# iOSDesignPatterns-Swift
+Ray Wenderlich's Article on Design Patterns in Swift
